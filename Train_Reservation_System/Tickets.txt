@@ -1,0 +1,24 @@
+Ticket ID: 101
+From: Alexandria
+To: Cairo
+Ticket Price: $60.0
+Air Condition: true
+
+Ticket ID: 102
+From: Alexandria
+To: Tanta
+Ticket Price: $70.0
+Air Condition: true
+
+Ticket ID: 103
+From: Alexandria
+To: Matrouh
+Ticket Price: $90.0
+Air Condition: true
+
+Ticket ID: 104
+From: Alexandria
+To: Aswan
+Ticket Price: $370.0
+Air Condition: true
+

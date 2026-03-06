@@ -1,0 +1,32 @@
+Train Number: 101
+Schedule: 10 A.M
+Destinations: [Alexandria, Cairo]
+Coaches: 5
+Seats per Coach: 5
+Total Seats: 25
+AirCondition: true
+
+Train Number: 102
+Schedule: 12 A.M
+Destinations: [Alexandria, Tanta]
+Coaches: 5
+Seats per Coach: 5
+Total Seats: 25
+AirCondition: true
+
+Train Number: 103
+Schedule: 2 P.M
+Destinations: [Alexandria, Matrouh]
+Coaches: 5
+Seats per Coach: 5
+Total Seats: 25
+AirCondition: true
+
+Train Number: 104
+Schedule: 4 P.M
+Destinations: [Alexandria, Aswan]
+Coaches: 5
+Seats per Coach: 5
+Total Seats: 25
+AirCondition: true
+
